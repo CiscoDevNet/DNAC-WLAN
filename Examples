@@ -1,0 +1,3 @@
+./wlan.py
+./wlan.py --addssid fred  --passphrase 12345678 Global/Perth/PER1/floor1
+./wlan.py --delssid fred Global/Perth/PER1/floor1
